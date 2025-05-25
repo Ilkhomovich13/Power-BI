@@ -1,1 +1,67 @@
+Topic: Introduction to Power BI  
+Prerequisites: Download Sales_Data.csv file
+
+1. What is Power BI, and what are its three main components?  
+Power BI is a business analytics tool developed by Microsoft that allows users to visualize data and share insights across an organization.  
+Three main components:  
+- Power BI Desktop: for creating reports and visualizations.  
+- Power BI Service: cloud-based platform for publishing and sharing reports.  
+- Power BI Mobile: mobile app for accessing reports on the go.  
+
+2. Name two business use cases for Power BI dashboards.  
+- Sales performance analysis by region, product, and sales representatives.  
+- Financial reporting for tracking revenue, expenses, and KPIs.  
+
+3. How do you download and install Power BI Desktop?  
+Visit https://powerbi.microsoft.com/, go to “Products → Power BI Desktop,” and click “Download free.”  
+You can also install it via Microsoft Store.  
+
+4. What is the difference between Power BI Desktop and Power BI Service?  
+Power BI Desktop is a free application for report creation on a local computer.  
+Power BI Service is an online cloud platform for sharing and collaborating on reports.  
+
+5. What file extension does a Power BI project use?  
+Power BI Desktop project files use the `.pbix` extension.  
+
+6. Explain the role of Power Query in Power BI.  
+Power Query is used to connect, transform, clean, and load data into Power BI.  
+It allows for automating data preparation steps without writing code.  
+
+7. Why would a business prefer Power BI over Excel for reporting?  
+- Real-time dashboards with automatic data refresh  
+- Better visuals and interactivity  
+- Easier sharing and collaboration  
+- Stronger integration with cloud services and databases  
+
+8. Describe one limitation of the free version of Power BI.  
+Free users cannot share reports privately in the Power BI Service without a Pro license.  
+
+9. What is a "published report" in Power BI Service?  
+A published report is one that has been uploaded from Power BI Desktop to the cloud-based Power BI Service for access, sharing, and scheduled refresh.  
+
+10. How does Power BI Mobile enhance accessibility?  
+- Touch-friendly, mobile-optimized layouts  
+- VoiceOver and screen reader support  
+- Real-time alerts and offline access to dashboards  
+
+11. Compare Power BI with Tableau—pros and cons.  
+Power BI Pros:  
+- Cheaper and has a free version  
+- Seamless integration with Microsoft products  
+- Easy for beginners  
+
+Power BI Cons:  
+- Less flexible visuals than Tableau  
+
+Tableau Pros:  
+- More advanced visualization options  
+- Better performance with very large datasets  
+
+Tableau Cons:  
+- More expensive  
+- Steeper learning curve  
+
+12. Explain how Power BI integrates with Azure services.  
+Power BI integrates with Azure SQL Database, Azure Synapse Analytics, and Azure Data Lake for data sources.  
+It also supports Azure Active Directory for secure user authentication and Azure ML for applying machine learning models in reports.
 
